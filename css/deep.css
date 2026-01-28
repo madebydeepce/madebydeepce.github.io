@@ -1,14 +1,3 @@
-/*
-
-Tooplate 2130 Waso Strategy
-
-https://www.tooplate.com/view/2130-waso-strategy
-
-Free Bootstrap 5 HTML Template
-
-*/
-
-
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
@@ -349,24 +338,6 @@ strong {
 
 .breadcrumb-item.active {
   color: var(--primary-color);
-}
-
-
-/*---------------------------------------
-  SITE HEADER              
------------------------------------------*/
-.site-header {
-  background: var(--primary-color);
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.site-header-icon {
-  color: var(--dark-color);
-}
-
-.site-header .social-icon {
-  text-align: right;
 }
 
 
@@ -906,4 +877,5 @@ strong {
     padding-bottom: 10px;
   }
 }
+
 
