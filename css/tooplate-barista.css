@@ -348,11 +348,10 @@ strong {
 }
 
 .navbar .navbar-brand-image {
-  filter: brightness(0) invert(1);
 }
 
 .navbar-brand-image {
-  width: 48px;
+  width: 100px;
   height: auto;
 }
 
@@ -1187,6 +1186,7 @@ strong {
     top: 13px;
   }
 }
+
 
 
 
