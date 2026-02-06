@@ -1,11 +1,3 @@
-/*
-
-Tooplate 2137 Barista
-
-https://www.tooplate.com/view/2137-barista-cafe
-
-*/
-
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
@@ -338,8 +330,7 @@ strong {
 .navbar {
   background: transparent;
   z-index: 999999;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 10px;
 }
 
 .navbar .container {
@@ -1197,4 +1188,5 @@ strong {
     top: 13px;
   }
 }
+
 
