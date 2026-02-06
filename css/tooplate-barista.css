@@ -3,12 +3,13 @@
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
+  --black-color:                  #000000;
   --primary-color:                #BC6C25;
   --secondary-color:              #DDA15E;
   --section-bg-color:             #b78752;
   --custom-btn-bg-color:          #BC6C25;
   --custom-btn-bg-hover-color:    #DDA15E;
-  --dark-color:                   #000000;
+  --dark-color:                   #0F0F0F;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
   --link-hover-color:             #E76F51;
@@ -37,7 +38,7 @@
 }
 
 body {
-  background-color: var(--white-color);
+  background-color: var(--dark-color);
   font-family: var(--body-font-family); 
 }
 
@@ -1186,6 +1187,7 @@ strong {
     top: 13px;
   }
 }
+
 
 
 
